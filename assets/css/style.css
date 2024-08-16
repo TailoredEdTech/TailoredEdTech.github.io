@@ -326,7 +326,7 @@ h6 {
   display: block;
   padding: 8px 32px 10px 32px;
   margin-top: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 40px;
 
   border-radius: 5px;
   transition: 0.5s;
@@ -975,4 +975,8 @@ section {
   font-weight: 600;
   color: #fff;
   color: #3b4ef8;
+}
+
+.first{
+  margin-bottom: 10px;
 }
